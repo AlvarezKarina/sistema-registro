@@ -3,3 +3,5 @@
 Estado del proyecto: En construcción.
 
 Para ejecutaron el sistema, debes poner: 
+
+Sistema de registro 2
