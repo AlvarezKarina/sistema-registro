@@ -1,3 +1,5 @@
-<h1>No me acuerdo</h1>
+<h1>Sistema de Registro</h1>
 
-EStado del proyecto: En proceso
+Estado del proyecto: En construcción.
+
+Para ejecutaron el sistema, debes poner: 
